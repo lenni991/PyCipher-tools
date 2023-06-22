@@ -27,7 +27,7 @@ To use PyCipher, follow the steps below:
 5. Run the following command to start the PyCipher application:
 
    ```
-   python cipher_tool.py
+   python PyCipher.py
    ```
 
 ## Usage
